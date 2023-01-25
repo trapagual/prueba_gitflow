@@ -1,0 +1,2 @@
+Este es el Doc02.txt original
+Lo he añadido en la feature INC#012345, con el comando: git flow feature start INC#012345
